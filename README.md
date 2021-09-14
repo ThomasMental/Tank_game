@@ -1,6 +1,6 @@
 # Tank Game
 
-Just for fun
+Java Tank game for fun and learning
 
 # How to play
 Ctrl - Shoot bullet  
