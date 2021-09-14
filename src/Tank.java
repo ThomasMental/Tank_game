@@ -13,7 +13,7 @@ public class Tank {
 
     private TankClient tc;
 
-    private String ImagePath = System.getProperty("user.dir");
+    private String ImagePath = System.getProperty("user.dir")+"/image/";
     // enemy or me
     private boolean good;
 
